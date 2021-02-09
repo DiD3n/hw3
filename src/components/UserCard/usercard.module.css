@@ -1,0 +1,27 @@
+.userCard {
+    width: 100%;
+    max-width: 128px;
+    margin: 4px;
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+}
+
+.userIcon {
+    width: 48px;
+    height: 48px;
+    background-color: #eee;
+    bottom: 8px;
+    border-radius: 128px;
+}
+.userName {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+
+.userSurname {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
